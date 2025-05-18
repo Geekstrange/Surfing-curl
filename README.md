@@ -1,5 +1,28 @@
 # 🌊 Surfing-curl - 给终端下载装上冲浪板的艺术
 
+<div class="attribution-notice" style="text-align:center; margin:20px 0; font-size:0.9em; color:#666;">
+  <a href="https://dribbble.com/shots/1835728-Surf-s-up-dude" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     style="display:inline-block; text-decoration:none; color:#ea4c89;">
+    <img src="https://cdn.dribbble.com/userupload/20186825/file/original-bd9765f1f9a39ab455e1e90e813f180e.gif" 
+         alt="Surf's Up Dude 动效设计" 
+         style="width:320px; height:auto; border-radius:8px; margin-bottom:5px; 
+                box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:transform 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.02)'" 
+         onmouseout="this.style.transform='scale(1)'">
+    <div style="padding:6px 12px; background:#f8f9fa; border-radius:4px;">
+      <span style="font-weight:600;">@OriginalDesigner</span> on Dribbble
+      <span style="margin:0 6px;">·</span>
+      <span style="font-style:italic;">Surf's Up Dude</span>
+    </div>
+  </a>
+  <p style="margin:8px 0 0 0; font-size:0.85em;">
+    本引用仅用于技术演示，非商业目的。如有版权问题请
+    <a href="mailto:geekstrange@outlook.com.com" style="color:#007bff;">联系我们</a>
+  </p>
+</div>
+
 <p align="center">
   <br>
   <a href="https://github.com/Geekstrange/Surfing-curl"><img src="https://img.shields.io/badge/Version-1.0.0-cyan?style=for-the-badge&logo=github"></a>
@@ -176,9 +199,27 @@ A: 欢迎！但新版本必须同样使用CC-BY-NC-SA协议
 ---
 
 > 小提示：下次下载时不妨放首《加州旅馆》，看波浪是否跟着节奏摇摆 🎸
+
 <p align="center">
-  © 2023 Geekstrange - 保留所有冲浪权利<br>
-  <sub>本作品采用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可</sub>
+  © 2025 Geekstrange - 保留所有冲浪权利<br>
+  <sub>
+    本代码采用
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" 
+       target="_blank" 
+       style="color: #2F80ED; text-decoration: underline dotted;">
+      CC-BY-NC-SA 4.0
+    </a>
+    许可协议<br>
+    <span style="font-size:0.8em; color: #666;">
+      此README包含的 
+      <a href="#attribution-notice" 
+         style="color: #EB5757;"
+         title="查看设计版权声明">
+         冲浪动画设计
+      </a> 
+      版权归属原作者
+    </span>
+  </sub>
 </p>
 
 <p align="center">
