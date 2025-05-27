@@ -25,7 +25,7 @@
 
 <p align="center">
   <br>
-  <a href="https://github.com/Geekstrange/Surfing-curl"><img src="https://img.shields.io/badge/Version-1.0.0-cyan?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Geekstrange/Surfing-curl"><img src="https://img.shields.io/badge/Version-1.0.1-cyan?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/Geekstrange/Surfing-curl/blob/main/LICENSE"><img src="https://forthebadge.com/images/badges/cc-nc-sa.svg"></a>
   <a href="https://github.com/Geekstrange/Surfing-curl/stargazers"><img src="https://img.shields.io/github/stars/Geekstrange/Surfing-curl?color=yellow&style=for-the-badge&logo=github"></a>
 </p>
