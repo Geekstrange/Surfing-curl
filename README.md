@@ -1,4 +1,5 @@
 # 🌊 Surfing-curl - 给终端下载装上冲浪板的艺术
+**[跨平台的Rust重制版](https://github.com/Geekstrange/Surfing)**
 
 <div class="attribution-notice" style="text-align:center; margin:20px 0; font-size:0.9em; color:#666;">
   <a href="https://dribbble.com/shots/1835728-Surf-s-up-dude" 
